@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/drmk/static/css/main.d07a1c37.css",
+    "main.js": "/drmk/static/js/main.1e7d2e36.js",
+    "static/media/python.png": "/drmk/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/laravel.png": "/drmk/static/media/laravel.f3ad6dc33fb0206ee8c2.png",
+    "static/media/rstudio.png": "/drmk/static/media/rstudio.fb64a014e21625f36550.png",
+    "static/media/nvidia.png": "/drmk/static/media/nvidia.b7905eabbd2665a4299e.png",
+    "static/media/flutter.webp": "/drmk/static/media/flutter.efd8ff2b0594a6ac56a1.webp",
+    "index.html": "/drmk/index.html",
+    "static/media/django.svg": "/drmk/static/media/django.0b743023c7a0045c71de4eba0251306d.svg",
+    "main.d07a1c37.css.map": "/drmk/static/css/main.d07a1c37.css.map",
+    "main.1e7d2e36.js.map": "/drmk/static/js/main.1e7d2e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07a1c37.css",
+    "static/js/main.1e7d2e36.js"
+  ]
+}
