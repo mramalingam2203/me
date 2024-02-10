@@ -117,7 +117,7 @@ const services = [{
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Most traditional small businesses function with WordPress sites. I am capable of adding plugins and maintenance for clients at affordable rates",
     },
    
 ];
