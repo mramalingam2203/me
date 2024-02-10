@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.d07a1c37.css",
+    "main.js": "/me/static/js/main.71d0756d.js",
+    "static/media/python.png": "/me/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/laravel.png": "/me/static/media/laravel.f3ad6dc33fb0206ee8c2.png",
+    "static/media/rstudio.png": "/me/static/media/rstudio.fb64a014e21625f36550.png",
+    "static/media/nvidia.png": "/me/static/media/nvidia.b7905eabbd2665a4299e.png",
+    "static/media/flutter.webp": "/me/static/media/flutter.efd8ff2b0594a6ac56a1.webp",
+    "index.html": "/me/index.html",
+    "static/media/django.svg": "/me/static/media/django.0b743023c7a0045c71de4eba0251306d.svg",
+    "main.d07a1c37.css.map": "/me/static/css/main.d07a1c37.css.map",
+    "main.71d0756d.js.map": "/me/static/js/main.71d0756d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07a1c37.css",
+    "static/js/main.71d0756d.js"
+  ]
+}
