@@ -32,12 +32,12 @@ const worktimeline = [{
         date: "2020-23",
     },
     {
-        jobtitle: "Data Scientist",
+        jobtitle: "Scientist",
         where: "IHPC, A-STAR, Singapore",
         date: "2015-2020",
     },
     {
-        jobtitle: "Post-doc Scientist",
+        jobtitle: "Post-doc Fellow",
         where: "UoU, Ulsan, Korea",
         date: "2013-15",
     },
@@ -49,15 +49,20 @@ const worktimeline = [{
     {
         jobtitle: "Post-doc Scientist",
         where: "AIT, Wien, Austria",
-        date: "2010-12",
+        date: "2011-12",
     },
     {
-        jobtitle: "Post-doc Scientist",
+        jobtitle: "Associte Profesor",
+        where: "VIT University, India",
+        date: "2010-11",
+    },
+    {
+        jobtitle: "Post-doc Fellow",
         where: "DTU, Lyngby, Denmark",
         date: "2009-10",
     },
     {
-        jobtitle: "Post-doc Scientist",
+        jobtitle: "Post-doc Fellow",
         where: "Tohoku Univ, Sendai-Miyagi, Japan",
         date: "2008-09",
     },
