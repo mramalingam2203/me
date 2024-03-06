@@ -77,7 +77,7 @@ const worktimeline = [{
         date: "1998-2004",
     },
 ];
-
+/*
 const skills = [{
         name: "Python | Django",
         value: 80,
@@ -103,7 +103,7 @@ const skills = [{
         value: 50,
     },
 ];
-
+*/
 const services = [{
         title: "Fullstack development",
         description: "Fullstack projects design, development, implementation and cloud deployment with different tech stacks",
